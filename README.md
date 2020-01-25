@@ -1,3 +1,3 @@
 # DiceRoll
-![Alt text](https://ibb.co/fx8rwwT.png)
+![Alt text](https://i.imgur.com/RguOQMv.jpg)
 
