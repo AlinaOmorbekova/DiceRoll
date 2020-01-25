@@ -1,2 +1,3 @@
 # DiceRoll
-![Vertical:](https://ibb.co/fx8rwwT)
+!(https://ibb.co/fx8rwwT)
+
