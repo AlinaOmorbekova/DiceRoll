@@ -1,3 +1,3 @@
 # DiceRoll
-!(https://imgur.com/a/jDGmE5o)
+!(https://imgur.com/a/jDGmE5o.png)
 
